@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="310f35b7-e51b-4ed9-bb49-b16f6eba2ca4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BankApp/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Bankapptest/TestAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/personal.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProblemType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StudentGrade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StudentGradeTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2yvtnk170Mi2fvmQtFFUCVYMLWm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentGrade.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;JUnit.All in personal.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.TestAccount (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestAccount.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestAccount.testAccount_can_deposit.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestAccount.testAccount_can_not_withdraw_more_than_balance.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestAccount.testAccount_can_not_withdraw_with_wrongpin.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestAccount.testAccount_can_withdraw_balance.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestAccount.testAccount_can_withdraw_negative_balance.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestAccount.testAccount_can_withdraw_with_correctPin.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestAccount.testAccount_can_withdraw_zero_balance.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestAccount.testAccount_cannot_deposit_negative_balance.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestAccount.testAccount_with_zero_balance.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/DELL/IdeaProjects/personal/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Bankapptest" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in personal">
+    <configuration name="All in personal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="personal" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAccount (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="personal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bankapptest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Bankapptest" />
+      <option name="MAIN_CLASS_NAME" value="Bankapptest.TestAccount" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAccount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="personal" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestAccount" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAccount.testAccount_can_withdraw_negative_balance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="personal" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestAccount" />
+      <option name="METHOD_NAME" value="testAccount_can_withdraw_negative_balance" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAccount.testAccount_can_withdraw_with_correctPin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="personal" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestAccount" />
+      <option name="METHOD_NAME" value="testAccount_can_withdraw_with_correctPin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in personal" />
+        <item itemvalue="JUnit.TestAccount (1)" />
+        <item itemvalue="JUnit.TestAccount" />
+        <item itemvalue="JUnit.TestAccount.testAccount_can_withdraw_negative_balance" />
+        <item itemvalue="JUnit.TestAccount.testAccount_can_withdraw_with_correctPin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26094.121" />
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-IU-251.26094.121" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="310f35b7-e51b-4ed9-bb49-b16f6eba2ca4" name="Changes" comment="" />
+      <created>1750727051808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750727051808</updated>
+      <workItem from="1750727053077" duration="20553000" />
+      <workItem from="1750939994429" duration="404000" />
+      <workItem from="1750940677000" duration="13858000" />
+      <workItem from="1750979893133" duration="27000" />
+      <workItem from="1750979958981" duration="185000" />
+      <workItem from="1750980182899" duration="71000" />
+      <workItem from="1750980321613" duration="2799000" />
+      <workItem from="1751022574902" duration="2639000" />
+      <workItem from="1751050549712" duration="11000" />
+      <workItem from="1751050592540" duration="7000" />
+      <workItem from="1751050637468" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/Bankapptest/TestAccount.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/personal$All_in_personal.ic" NAME="All in personal Coverage Results" MODIFIED="1751023784263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>
